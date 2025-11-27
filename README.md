@@ -7,6 +7,11 @@
 # 🧩 Michail Angelopoulos  
 ### Python Automation • AI Tooling • Document Systems • Digital Workflows  
 
+> **Quick links:**  
+> 🇬🇧 [CV (EN)](docs/CV_EN.pdf) · 🇳🇱 [CV (NL)](docs/CV_NL.pdf) · 🇩🇪 [Lebenslauf (DE)](docs/CV_DE.pdf) · 🎨 [Portfolio](docs/Portfolio.pdf)
+
+---
+
 ![Python](https://img.shields.io/badge/Python-Automation-blue)
 ![AI Workflows](https://img.shields.io/badge/AI-Workflows-purple)
 ![Tools](https://img.shields.io/badge/Tools-MJ_WAN_CapCut-orange)
@@ -16,6 +21,10 @@
 📧 michail.angelopoulos.net@gmail.com  
 
 ---
+![Status](https://img.shields.io/badge/CV-remote_ready-brightgreen)
+![Role](https://img.shields.io/badge/Focus-AI_&_Automation-blue)
+![Stack](https://img.shields.io/badge/Tools-Python_|_GitHub_|_Linux-black)
+
 
 ## 👨‍💻 About Me
 Self-taught digital operator focused on **Python automation**,  
